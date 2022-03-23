@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="rss.css" ?>
 <rss version="2.0">
 <channel>
   <title>gabubu news</title>
@@ -6,8 +7,8 @@
   <description>News about Wii and tech related</description>
   <item>
     <title>First post</title>
-    <link>nada</link>
-    <guid>nada</guid>
+    <link>000</link>
+    <guid>0000000000</guid>
     <pubDate>2022-03-23</pubDate>
     <description>
         <p>Welcome to gabubu news! Here I'll try to do my best and post Wii and tech related news. :D</p>

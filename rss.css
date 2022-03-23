@@ -1,0 +1,71 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	display: block;
+}
+rss {
+	display: block;
+	font-family: terminus;
+	background-image: url("https://github.com/GabubuAvailable/news/raw/main/img/bg.jpg");
+	color: #ffffff;
+	font-size: 13px;
+}
+channel > title {
+	font-size: 24px;
+	font-weight: bold;
+	margin: 10px 0px;
+}
+channel {
+	width: 728px;
+	margin-left: auto;
+	margin-right: auto;
+}
+channel > item {
+	background-color: #000d84;
+	border: 1px solid #001aff;
+	padding: 10px;
+	margin-bottom: 15px;
+}
+	item > link, item > pubDate {
+		color: #ffff00;
+		font-size: 12px;
+		border-bottom: 1px solid #f0f0f0;
+		margin-bottom: 5px;
+		padding-bottom: 5px;
+	}
+	item > link {
+		float: right;
+		color: #b9b9b9;
+		text-align: right;
+		width: 66.66%;
+	}
+	item > pubDate {
+		float: left;
+		color: #ffff00;
+		width: 33.33%;
+	}
+	item > title {
+		color: #00579B;
+		font-size: 18px;
+		margin-bottom: 5px;
+	}
+	item > description {
+		margin-bottom: 10px;
+        color: #ffffff;
+	}
+	item > category {
+		background-color: #efefef;
+		border: 1px solid #dadada;
+		border-radius: 3px;
+		padding: 2px 4px;
+		display: inline-block;
+		color: #888888;
+		transition: color 0.3s linear;
+	}
+	item > category:hover {
+		color: #ffffff;
+	}
+
+lastBuildDate, language, guid, channel > link {
+	display: none;
+}
