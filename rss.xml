@@ -22,10 +22,11 @@
     <pubDate>2022-03-25</pubDate>
     <description>
         <p>The new version of GNOME called GNOME 42 is finally here with the greatest updates.</p>
-        <p>The new GNOME 42 comes with new features (excluding that big window buttons and the same dock and topbar)</p>
+        <p>The new GNOME 42 comes with new features (excludind that big window buttons and the same dock and topbar)</p>
         <p>Now it comes with System Wide Dark Mode which is a great feature for who really wants dark mode on every GUI softwares. They improved the Screen Capture and Recording. Streamline Interface (which almost all DE and WM have that since long time ago), Better and powerful text editor and file explorer (still awful in my opinion) and is way faster (idk).</p>
-        <p>These informations are provided by their YouTube</p>
+        <p>These informations are provided by their YouTube channel</p>
         <p>Source: https://youtu.be/du-2QpWbiLU</p>
     </description>
   </item>
 </channel>
+</​rss​>
