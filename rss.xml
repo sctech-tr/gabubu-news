@@ -7,7 +7,7 @@
   <description>News about Wii and tech related</description>
   <item>
     <title>First post</title>
-    <link>000</link>
+    <link>https://gabubuavailable.github.io/news/cont/00000</link>
     <guid>0000000000</guid>
     <pubDate>2022-03-23</pubDate>
     <description>
@@ -15,3 +15,15 @@
         <p>It might be hard but I'll try lol. Enjoy and enable notifications for upcomming news ;)</p>
    </description>
   </item>
+  <item>
+    <title>GNOME 42 is here!</title>
+    <link>https://gabubuavailable.github.io/news/cont/00001</link>
+    <guid>0000000000</guid>
+    <pubDate>2022-03-25</pubDate>
+    <description>
+        <p>The new version of GNOME called GNOME 42 is finally here with the greatest updates.</p>
+        <p>The new GNOME 42 comes with new features (excludind that big window buttons and the same dock and topbar)</p>
+        <p>Now it comes with System Wide Dark Mode which is a great feature for who really wants dark mode on every GUI softwares. They improved the Screen Capture and Recording. Streamline Interface (which almost all DE and WM have that since long time ago), Better and powerful text editor and file explorer (still awful in my opinion) and is way faster (idk).</p>
+        <p>   </p>
+        <p>These informations are provided by their YouTube</p>
+        <p>Source: https://youtu.be/du-2QpWbiLU</p>
