@@ -9,6 +9,9 @@ rss {
 	background-image: url("https://github.com/GabubuAvailable/news/raw/main/img/bg.jpg");
 	color: #ffffff;
 	font-size: 13px;
+	background-repeat:no-repeat;
+	background-position: center center;
+	background-size:200%;
 }
 channel > title {
 	font-size: 24px;
