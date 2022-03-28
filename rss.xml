@@ -6,6 +6,27 @@
   <link>https://gabubuavailable.github.io/news/</link>
   <description>News about Wii and tech related</description>
   <item>
+    <title>Time to move from bloated softwares to less-bloated softwares</title>
+    <link>https://gabubuavailable.github.io/news/cont/00004.html</link>
+    <guid>0000000004</guid>
+    <pubDate>2022-03-28</pubDate>
+    <description>
+      <p>Welcome! Today we're gonna talk about bloated softwares and why you should move to less-bloated softwares. Are you ready? I think so. ;)</p>
+      <p>+ What "bloated" means?</p>
+      <p>"Bloated" means overlarge and excessively fat. Something that's way bigger than the original product. Bloated softwares meaning the same thing, a simple software full of random spywares, shits and so on.</p>
+      <p>+ Why should we move to less-bloated?</p>
+      <p>Using a bloated softwares would "eat" all your resources. A very good example is Google Chrome and Chromium based browsers. If you 2 tabs openned, it would fill your RAM memory and then starting lagging. Another example is the Microsoft UWP apps. I mean seriously, exists .exe files and they are less-bloated than the UWP shits. And now let's talk about the less-bloated alternatives (some of them of course).</p>
+      <p>+ Less-bloated alternatives</p>
+      <p>Okay so you learned something today but the question is "Yeah but... uhm... what softwares should I use then?". Lemme make a list for you.</p>
+      <p>For Google Chrome and Chromium based browsers: LibreWolf, Firefox and Surf</p>
+      <p>For VLC and Windows Media Player: mpv and ncmpcpp+mpc+mpd+dmpc</p>
+      <p>For GNOME (not a software but still bloated): XFCE and LXQt</p>
+      <p>For Google (again, not a software but full of trackers): searx</p>
+      <p>And so on... You can find more on the internet.</p>
+      <p>I hope you understood why you should move to less-bloated softwares. And I hope you enjoyed while reading this news. Have a great day o/</p>
+    </description>
+  </item>
+  <item>
     <title>The Wii Shop and DSi Shop are offline and nobody knows why</title>
     <link>https://gabubuavailable.github.io/news/cont/00003.html</link>
     <guid>0000000003</guid>
