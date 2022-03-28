@@ -6,10 +6,10 @@
 rss {
 	display: block;
 	font-family: terminus;
-	background-image: url("https://github.com/GabubuAvailable/news/raw/main/img/bg.jpg");
+	background-color: #000d84;
 	color: #ffffff;
 	font-size: 13px;
-	background-repeat:no-repeat;
+	background-repeat:repeat;
 	background-position: center center;
 	background-size:400%;
 }
